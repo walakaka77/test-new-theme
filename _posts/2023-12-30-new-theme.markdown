@@ -3,6 +3,7 @@ layout: post
 title:  "Testing a new theme"
 date:   2023-12-30 18:57:37 +0800
 categories: jekyll update
+author: shafik walakaka
 ---
 
 # Test to create new theme
